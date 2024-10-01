@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bills>
+    <bill>
+        <id>1</id>
+        <customerName>Nguyen Van A</customerName>
+        <productName>Giay nike jordan 1</productName>
+        <quality>2</quality>
+        <price>998</price>
+        <day>2024-01-18</day>
+    </bill>
+    <bill>
+        <id>2</id>
+        <customerName>nguyen van b</customerName>
+        <productName>Giay nike jordan 1</productName>
+        <quality>3</quality>
+        <price>466</price>
+        <day>2024-01-18</day>
+    </bill>
+    <bill>
+        <id>3</id>
+        <customerName>aaaaa</customerName>
+        <productName>Giay 2</productName>
+        <quality>232</quality>
+        <price>23232</price>
+        <day>2024-01-19</day>
+    </bill>
+    <bill>
+        <id>4</id>
+        <customerName>abc</customerName>
+        <productName>Giay nike jordan 1</productName>
+        <quality>3</quality>
+        <price>1497</price>
+        <day>2024-01-22</day>
+    </bill>
+    <bill>
+        <id>5</id>
+        <customerName>abc</customerName>
+        <productName>Giay nike jordan 1</productName>
+        <quality>5</quality>
+        <price>25000</price>
+        <day>2024-01-22</day>
+    </bill>
+    <bill>
+        <id>6</id>
+        <customerName></customerName>
+        <productName>Giay nike jordan 1</productName>
+        <quality>2</quality>
+        <price>10000</price>
+        <day>2024-01-22</day>
+    </bill>
+    <bill>
+        <id>7</id>
+        <customerName>nam</customerName>
+        <productName>giay 4</productName>
+        <quality>10000</quality>
+        <price>2000000</price>
+        <day>2024-01-22</day>
+    </bill>
+    <bill>
+        <id>8</id>
+        <customerName>luong</customerName>
+        <productName>giay 4</productName>
+        <quality>1</quality>
+        <price>200</price>
+        <day>2024-09-18</day>
+    </bill>
+</bills>

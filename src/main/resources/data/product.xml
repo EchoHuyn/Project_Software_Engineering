@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <id>4</id>
+        <name>giay 4</name>
+        <price>200</price>
+        <image>giay4.jpg</image>
+        <quality>25</quality>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Giay 2</name>
+        <price>400</price>
+        <image>giay2.jpg</image>
+        <quality>50</quality>
+    </product>
+    <product>
+        <id>1</id>
+        <name>Giay nike jordan 1</name>
+        <price>5000</price>
+        <image>giay1.jpg</image>
+        <quality>52</quality>
+    </product>
+    <product>
+        <id>3</id>
+        <name>giay 3</name>
+        <price>533</price>
+        <image>giay3.jpg</image>
+        <quality>22</quality>
+    </product>
+    <product>
+        <id>5</id>
+        <name>giay 4</name>
+        <price>200</price>
+        <image>.</image>
+        <quality>50</quality>
+    </product>
+    <product>
+        <id>6</id>
+        <name>d</name>
+        <price>12</price>
+        <image>g</image>
+        <quality>10000</quality>
+    </product>
+    <product>
+        <id>7</id>
+        <name>nike</name>
+        <price>10</price>
+        <image>k</image>
+        <quality>0</quality>
+    </product>
+</products>
